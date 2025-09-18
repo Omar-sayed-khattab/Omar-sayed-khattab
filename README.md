@@ -1,8 +1,4 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-sayed-khattab&show_icons=true&hide_border=false&line_height=20&title_color=1b93c9&icon_color=1b93c9&show_owner=true"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
