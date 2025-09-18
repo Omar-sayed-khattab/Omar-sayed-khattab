@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=omarsidabdelhakim&show_icons=true&hide_border=false&line_height=20&title_color=1b93c9&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-sayed-khattab&show_icons=true&hide_border=false&line_height=20&title_color=1b93c9&icon_color=1b93c9&show_owner=true"/>
 </p>
 
 <p>
@@ -22,17 +22,17 @@
 ### 👋 Hi, I’m **Omar Sayed Abdelhakim**
 - 🎓 Computer Science student @ **Arab Open University**, majoring in **Artificial Intelligence**.  
 - 🤖 Passionate about **Machine Learning, Computer Vision, and Deep Learning**.  
-- 💡 Building projects with **CNNs, RNNs, and NLP**.  
-- 🌍 Exploring opportunities in **AI research, freelancing, and open-source projects**.  
+- 💡 Building projects with **CNNs, RNNs, and ML**.  
+- 🌍 Exploring opportunities in **AI engineering, freelancing, and open-source projects**.  
 - 📊 Interested in **Data Science & MLOps** as well.  
 
 ---
 
 ### 📬 How to reach me:
 <p>
-  <a href="mailto:omarsayed.ai@gmail.com"><img src="https://img.shields.io/badge/e-mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:omar10wgg1@gmail.com"><img src="https://img.shields.io/badge/e-mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/omarsidabdelhakim"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Omar-sayed-khattab"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -42,6 +42,6 @@
 <details>
   <summary>📊 GitHub Stats</summary><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarsidabdelhakim&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-sayed-khattab&layout=compact&theme=default)
 
 </details>
