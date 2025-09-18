@@ -1,3 +1,6 @@
+<div align="center"> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
+
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
@@ -12,6 +15,8 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Omar-sayed-khattab&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 
