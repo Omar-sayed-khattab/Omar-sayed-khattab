@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 Hi, I’m **Omar Sayed Abdelhakim**
+### 👋 Hi, I’m **Omar Sayed**
 - 🎓 Computer Science student @ **Arab Open University**, majoring in **Artificial Intelligence**.  
 - 🤖 Passionate about **Machine Learning, Computer Vision, and Deep Learning**.  
 - 💡 Building projects with **CNNs, RNNs, and ML**.  
@@ -30,14 +30,3 @@
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Omar-sayed-khattab"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<details>
-  <summary>📊 GitHub Stats</summary><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-sayed-khattab&layout=compact&theme=default)
-
-</details>
